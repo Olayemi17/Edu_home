@@ -1,0 +1,45 @@
+.last-cointainer2{
+    background-color: #081A28;
+    /* margin-top: -70px; */
+}
+.main-circle3{
+    display: flex;
+    /* margin-top: -3px;
+    margin-left: 15px; */
+}
+.circle3{
+    border: 1px solid white;
+    width: 35px;
+    height: 35px;
+    border-radius: 80%;
+    /* margin-left:65px;
+    margin-top: 32px; */
+}
+.circle4{
+    border: 1px solid white;
+    background-color: #BCFBBA;
+    width: 35px;
+    height: 35px;
+    border-radius: 80%;
+    /* margin-left:-20px;
+    margin-top: 32px; */
+}
+.educa{
+    color: white;
+    /* margin-top: 25px;
+    margin-left: 5px; */
+    font-size: 33px;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+.paraaaas{
+    color: #A8BFBA;
+}
+.paraaaas2{
+    color: #A3A6A8;
+    font-size: 17px;
+}
+.paraaaas22{
+    color: #A3A6A8;
+    font-size: 15px;
+}

@@ -1,0 +1,93 @@
+.bodyyy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    color: #98A2B3;
+}
+
+.sentence {
+    position: absolute;
+    opacity: 0;
+    animation: fade 10s infinite;
+    animation-duration:7s;
+    width: 100%;
+}
+.b1{
+    animation: ani1 10s infinite;
+}
+.b2{
+    animation: ani2 10s infinite;
+}
+.b3{
+    animation: ani3 10s infinite;
+}
+.b4{
+    animation: ani4 10s infinite;
+}
+.b5{
+    animation: ani5 10s infinite;
+}
+@keyframes ani1 {
+    0%{
+        opacity: 0;
+    }
+    10%{
+        opacity: 1;
+    }
+    20%{
+        opacity: 0;
+    }
+}
+@keyframes ani2 {
+    20%{
+        opacity: 0;
+    }
+    30%{
+        opacity: 1;
+    }
+    40%{
+        opacity: 0;
+    }
+}
+@keyframes ani3 {
+    40%{
+        opacity: 0;
+    }
+    50%{
+        opacity: 1;
+    }
+    60%{
+        opacity: 0;
+    }
+}
+@keyframes ani4 {
+    60%{
+        opacity: 0;
+    }
+    70%{
+        opacity: 1;
+    }
+    80%{
+        opacity: 0;
+    }
+}
+@keyframes ani5 {
+    80%{
+        opacity: 0;
+    }
+    90%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+    }
+}
+.imager{
+    border: 1px solid #9FE49F;
+    
+    padding: 7px;
+    
+}
+
+

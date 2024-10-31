@@ -1,0 +1,32 @@
+.footer-cointainer{
+  
+}
+.h22{
+    /* font-family: ; */
+    color: #101828;
+}
+.mainnn{
+    box-shadow: 5px 12px 20px #EBF3FA;
+}
+.mainnn:hover{
+    box-shadow: 25px 25px 30px #EBF3FA;
+    transform: scale(1.1); 
+    width: 20rem;
+    transition-duration: 1s;
+}
+.jan{
+    color: #BDC1CA;
+}
+.hh55:hover{
+   text-decoration: underline;
+}
+.footer-cointainer{
+    background-color: #7044B0;
+    position: relative;
+}
+.signss{
+    background-color: #BCFBBA;
+    border: none;
+    font-family: sans-serif;
+    cursor: pointer; 
+}

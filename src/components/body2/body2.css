@@ -1,0 +1,36 @@
+.container3{
+    background-color: #F7FBFE;
+}
+.image1{
+    width: 350px;
+}
+.image2{
+    width: 350px;
+}
+.explore{
+    color: #101828;
+}
+.paragraph{
+    color: #525D6E;
+}
+#btn{
+    background-color: #081A28;
+}
+.img{
+    background-color: #F2E9FF;
+}
+.img2{
+    background-color: #EBFEEA;
+}
+
+.img3{
+    background-color: #FFE3EC;
+   
+}
+@media screen and (max-width: 600px){
+    .all-image{
+       margin-top: 170px;
+       margin-left: 1px;
+       gap: 15px;
+    }
+}

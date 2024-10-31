@@ -1,0 +1,37 @@
+.textt{
+    color: #101828;
+    /* font-family: Poppins,sans-serif; */
+}
+.textt2{
+    /* font-family: Inter, sans-serif; */
+    color: #344054;
+}
+.expert{
+    /* font-family: Poppins, sans-serif; */
+    color: #101828;
+}
+.expert2{
+    color: #344054;
+    /* color: white; */
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    /* background-color: rgba(0, 0, 0, 0.5); */
+    color: white; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    opacity: 0; 
+    transition: opacity 2s; 
+}
+.image-container:hover .overlay {
+    opacity: 1; /* Show text on hover */
+    cursor: pointer;
+}
+
