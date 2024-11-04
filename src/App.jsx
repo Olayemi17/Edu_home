@@ -1,5 +1,5 @@
 import './App.css'
-import Nav from "./components/nav/Nav"
+// import Nav from "./components/nav/Nav"
 import Body from "./components/body/Body1"
 import Body2 from "./components/body2/Body2"
 import Body3 from "./components/body3/Body3"
@@ -9,6 +9,7 @@ import BodySection3 from "./components/body-section3/BodySection3.jsx"
 import Footer1 from "./components/footer1/Footer1.jsx"
 import Footer2 from "./components/footer2/Footer2.jsx"
 import Footer3 from "./components/footer3/Footer3.jsx"
+import Nav from './components/nav/Nav.jsx'
 function App() {
   return (
     <>
